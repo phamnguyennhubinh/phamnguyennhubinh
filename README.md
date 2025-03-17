@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-![Vue](https://img.shields.io/npm/v/vue)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.4.21-%234FC08D?logo=vue.js)
 ![Nuxt.js](https://badgen.net/badge/Nuxt.js/3)
 ![React](https://img.shields.io/badge/React-18.2.0-%2361DAFB?logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -31,7 +31,7 @@
 ### LinkedIn: [linkedin.com/in/phamnguyennhubinh/](https://www.linkedin.com/in/phamnguyennhubinh/) 
 ### Email: phamnguyennhubinh.work@gmail.com
 
-- ⚡ Fun fact: I enjoy playing badminton when I'm not coding! 🏸
+⚡ Fun fact: I enjoy playing badminton when I'm not coding! 🏸
 <!--
 **phamnguyennhubinh/phamnguyennhubinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
